@@ -1,0 +1,11 @@
+// HOW TO APPROACH ?
+
+1] No. of Lines  = No. of rows = No. of times outer for loop runs
+
+2] Identify for every row no. of columns are there
+
+  * Type of elements in columns
+
+3] What do you need to print?
+
+Note : Try to find the formula 
